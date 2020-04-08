@@ -5,9 +5,9 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>睿思BI - 用户登录</title>
-<meta name="keywords" content="睿思BI">
-<meta name="description" content="“睿思BI”商业智能系统是由成都睿思商智科技有限公司自主研发的企业数据分析系统。 包含数据建模、数据报表、多维分析、仪表盘、移动BI等功能模块，方便企业快速建立一套易用，灵活、低成本的商业智能平台，实现数据的快速分析及可视化。 ">
+<title>中港星BI系统 - 用户登录</title>
+<meta name="keywords" content="中港星BI">
+<meta name="description" content="“中港星BI”商业智能系统是由中港星集团自主研发的企业数据分析系统。 包含数据建模、数据报表、多维分析、仪表盘、移动BI等功能模块，构建商业智能平台，实现数据的快速分析及可视化。 ">
 <link rel="shortcut icon" type="image/x-icon" href="resource/img/rs_favicon.ico">
 <link href="ext-res/css/bootstrap.min.css" rel="stylesheet">
 <link href="resource/css/font-awesome.css?v=4.4.0" rel="stylesheet">
@@ -59,8 +59,8 @@ $(function(){
 <body class="gray-bg">
 	  <div class="row border-bottom" role="navigation" style="margin-bottom: 0"> 
 		<nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
-		<div class="col-sm-12">
-		<img src="resource/img/frame3/log2.png" class="img-responsive">
+		<div class="col-sm-12" style="width: 12%;margin-left: 1%;">
+			<img src="resource/img/frame3/log.png" class="img-responsive">
 		</div>
 		</nav>
 	  </div>
@@ -78,17 +78,17 @@ $(function(){
 						<div class="form-group">
 							<input type="password" name="password" value="${password}" class="form-control pword m-b" placeholder="您的密码" required="true" aria-required="true"/>
 						</div>
-							<button class="btn btn-primary block full-width m-b"" type="submit">登录</button>
+							<button class="btn btn-primary block full-width m-b" type="submit">登录</button>
 						账号/密码： admin/123456
 						</div>
 					</div>
                 </form>
         </div>
     </div>
-	<div style="margin:60px 30px 0px 30px; padding:10px;" align="center"> <a href='https://www.ruisitech.com' target="_blank">睿思BI</a> - <a href='https://www.ruisitech.com/product.html' target="_blank">标准版</a>  - <a href='https://www.ruisitech.com/opensource.html' target="_blank">开源版</a> - <a href='https://www.ruisitech.com/yun.html' target="_blank">睿思云</a> - <a href='http://www.ruisibi.cn/book.htm' target="_blank">使用手册</a> - <a href='https://www.ruisitech.com/suggest.html' target="_blank">问题反馈</a> - <a href='https://www.ruisitech.com/3gbi.html' target="_blank">睿思云APP</a> </div>
+	<div style="margin:60px 30px 0px 30px; padding:10px;" align="center"> <a href='http://d.alphaqr.com/yqfapp' target="_blank">中港星APP</a> - <a href='http://120.79.155.246/' target="_blank">中港星CRM</a>  - <a href='http://www.zgxmall.com/' target="_blank">中港星商城</a> - <a href='http://vip.zgxmall.com/' target="_blank">中港星云企服</a> - <a href='http://col.zgxmall.com/' target="_blank">中港星商学院</a> - <a href='http://www.ruisibi.cn/book.htm' target="_blank">使用手册</a> </div>
 		<div style="padding:10px;" >
-		<div align="center"> 
-               ©成都睿思商智科技有限公司 2018 版权所有
+		<div align="center">
+			粤ICP备17143321号 Copyright © 2020 深圳市中港星科技企业服务中心有限公司 All Rights Reserved
             </div>
 		</div>
 </body>

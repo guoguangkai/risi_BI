@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<title>睿思BI - 数据可视化分析系统</title>
+<title>中港星BI - 数据可视化分析系统</title>
 <link rel="shortcut icon" type="image/x-icon" href="../resource/img/rs_favicon.ico">
 <link href="../ext-res/css/bootstrap.min.css" rel="stylesheet">
 <link href="../resource/css/animate.css" rel="stylesheet">
@@ -91,12 +91,12 @@
                             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                                 <span class="clear">
                                     <span class="block m-t-xs" style="font-size:20px;">
-                                        <img src="../resource/img/frame3/log2.png">
+                                        <img src="../resource/img/frame3/log1.png" style="width: 95%">
                                     </span>
                                 </span>
                             </a>
                         </div>
-                        <div class="logo-element">睿思BI
+                        <div class="logo-element">中港星BI
                         </div>
                     </li>
                     <div class="nav-user">

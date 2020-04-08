@@ -35,6 +35,5 @@ public class Area extends BaseEntity {
 	
 	@Override
 	public void validate() {
-		
 	}
 }

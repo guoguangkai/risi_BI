@@ -67,7 +67,7 @@ public abstract class BaseCompService {
 	}
 	
 	public int type2value(String tp){
-		int curDate = 4;;
+		int curDate = 4;
 		if(tp.equals("year")){
 			curDate = 4;
 		}else if(tp.equals("quarter")){
@@ -224,7 +224,6 @@ public abstract class BaseCompService {
 	/**
 	 * nodetype 表示筛选的类型，分为维度筛选和指标筛选两类，维度筛选和指标筛选对应的SQL位置不一样，维度放where 后， 指标放 having 后
 	 * @param params
-	 * @param nodetype
 	 * @return
 	 */
 	public String dealCubeParams(List<CompParamDto> params, Map<String, String> tableAlias){

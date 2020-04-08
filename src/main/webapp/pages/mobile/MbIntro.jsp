@@ -42,7 +42,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <div align="center">
 <img src="http://www.ruisibi.cn/img/rsbiapp.png">
 				 <br/>
-				 扫描二维码下载睿思BI客户端App
+				 扫描二维码下载客户端App
  </div>
  
 </div>
